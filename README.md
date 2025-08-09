@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm grayspace!
 
-<!--
-**grayspace/grayspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I'm passionate about building, learning, and collaborating on innovative software projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 💻 **Profession:** Senior Software Engineer
+- 🛠️ **Top Skills:** .NET Core/Framework, C#, JavaScript, MS SQL, Python, Entity Framework, Linq
+- 🌱 **Currently Learning & Exploring:**  
+  - Generative AI (Prompt Engineering, RAG, Evaluation, Agentic AI)
+  - React & React Native  
+  - AI-powered coding tools (GitHub Copilot, Cursor, V0)
+- 💡 **Personal Projects:**  
+  I love experimenting with cutting-edge tech, building cross-platform apps, and pushing the boundaries of developer tooling.
+
+---
+
+## 🌐 Connect with Me
+
+- 💬 Open for collaboration, issues, and discussions!
+- 💼 [LinkedIn](https://www.linkedin.com/in/grayhamilton/)
+
+---
+
+Thanks for visiting!  
+Let’s build something amazing together.
