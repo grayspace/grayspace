@@ -16,6 +16,7 @@ I'm passionate about building, learning, and collaborating on innovative softwar
 - 💡 **Personal Projects:**  
   I love experimenting with cutting-edge tech, building cross-platform apps, and pushing the boundaries of developer tooling.
   - [FlashcardGenius](https://flashcardgeni.us) - Learn anything with AI generated flashcards.
+  - [SleepOnIt AI](https://sleeponitai.app) - Science-backed AI powered decision assistant.
   - [BrainReframe](https://brainreframe.vercel.app) - Science-backed neuroplasticity app to ransform your mindset and rewire your brain.  
   - [Terraformian](https://terraformian.vercel.app) - A planet terraforming simulator game with resource management, a market economy, factions, and more.
   - [SwipeEmpire](https://swipeempire.com) - A decision-based empire management game where you rule your kingdom through simple swipe actions.
