@@ -18,7 +18,7 @@ I'm passionate about building, learning, and collaborating on innovative softwar
   - [FlashcardGenius](https://flashcardgeni.us) - Learn anything with AI generated flashcards.
   - [SleepOnIt AI](https://sleeponitai.com) - Science-backed AI powered decision assistant.
   - [WikiLinkExplorer](https://wiki-link-explorer.replit.app) - Explore deep links and connections of Wikipedia articles with AI analysis. 
-  - [BrainReframe](https://www.brainreframe.app) - Science-backed neuroplasticity app to ransform your mindset and rewire your brain.
+  - [BrainReframe](https://www.brainreframe.app) - Science-backed neuroplasticity app to transform your mindset and rewire your brain.
   - [RandomFast](https://randomfast.vercel.app) - Randomized duration intermittent fasting tracker.
   - [Terraformian](https://terraformian.vercel.app) - A planet terraforming simulator game with resource management, a market economy, factions, and more.
   - [SwipeEmpire](https://swipeempire.com) - A decision-based empire management game where you rule your kingdom through simple swipe actions.
