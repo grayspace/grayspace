@@ -16,7 +16,7 @@ I'm passionate about building, learning, and collaborating on innovative softwar
 - 💡 **Personal Projects:**  
   I love experimenting with cutting-edge tech, building cross-platform apps, and pushing the boundaries of developer tooling.
   - [FlashcardGenius](https://flashcardgeni.us) - Learn anything with AI generated flashcards.
-  - [SleepOnIt AI](https://sleeponitai.app) - Science-backed AI powered decision assistant.
+  - [SleepOnIt AI](https://sleeponitai.com) - Science-backed AI powered decision assistant.
   - [WikiLinkExplorer](https://wiki-link-explorer.replit.app) - Explore deep links and connections of Wikipedia articles with AI analysis. 
   - [BrainReframe](https://brainreframe.vercel.app) - Science-backed neuroplasticity app to ransform your mindset and rewire your brain.
   - [RandomFast](https://randomfast.vercel.app) - Randomized duration intermittent fasting tracker.
