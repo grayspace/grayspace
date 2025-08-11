@@ -8,6 +8,7 @@ I'm passionate about building, learning, and collaborating on innovative softwar
 ## 🌟 About Me
 
 - 💻 **Profession:** Senior Software Engineer
+- 🏭 **Current Industry:** Healthcare Insurance Technology
 - 🛠️ **Top Skills:** .NET Core/Framework, C#, JavaScript, MS SQL, Python, Entity Framework, Linq
 - 🌱 **Currently Learning & Exploring:**  
   - Generative AI (Prompt Engineering, RAG, Evaluation, Agentic AI)
