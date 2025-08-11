@@ -15,7 +15,7 @@ I'm passionate about building, learning, and collaborating on innovative softwar
   - AI-powered coding tools (GitHub Copilot, Cursor, V0)
 - 💡 **Personal Projects:**  
   I love experimenting with cutting-edge tech, building cross-platform apps, and pushing the boundaries of developer tooling.
-  - [CLINT.AI RAG Demo](https://clint-ai-rag-demo.streamlit.app) - A generative AI system using RAG to provide accurate clinical information from a trusted dataset.
+  - [CLINT.AI RAG Demo](https://clint-ai-rag-demo-grayspace.streamlit.app) - A generative AI system using RAG to provide accurate clinical information from a trusted dataset.
   - [FlashcardGenius](https://flashcardgeni.us) - Learn anything with AI generated flashcards.
   - [SleepOnIt AI](https://sleeponitai.com) - Science-backed AI powered decision assistant.
   - [WikiLinkExplorer](https://wiki-link-explorer.replit.app) - Explore deep links and connections of Wikipedia articles with AI analysis. 
